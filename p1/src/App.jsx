@@ -4,8 +4,8 @@ import Header from "./comonents/Header";
 function App() {
   return (
     <>
-      <Header />
       <Router>
+      <Header />
         <Routes>
           <Route />
         </Routes>
